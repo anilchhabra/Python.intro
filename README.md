@@ -1,2 +1,0 @@
-# Python.intro
-Python projects
